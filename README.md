@@ -4,8 +4,14 @@ Showing how to use git and github together.
 
 ## Introduction
 
+This is an example is to show diffrent parts of git repository and  various commands using a web project.
+
+
+
 ## Puropse 
 
 ## Deployment 
+
+This is an example is to show diffrents parts of git repository 
 
 ## How  to  Contribute 
