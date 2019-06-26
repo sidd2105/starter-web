@@ -18,4 +18,4 @@ This is an example is to show diffrents parts of git repository
 
 ## CopyRight 
 
-Git.
+GitHUB.com
