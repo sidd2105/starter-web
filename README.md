@@ -15,3 +15,7 @@ This is an example is to show diffrent parts of git repository and  various comm
 This is an example is to show diffrents parts of git repository 
 
 ## How  to  Contribute 
+
+## CopyRight 
+
+Git.
