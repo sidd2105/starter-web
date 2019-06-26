@@ -4,9 +4,9 @@
 # TEAM
 siddaratha
 
-# THANKS
+#  THANKS
 
-    <name>
+    <siddartha>
 
 # TECHNOLOGY COLOPHON
 
