@@ -6,7 +6,7 @@ siddaratha
 
 #  THANKS
 
-    <siddartha>
+    <siddartha, Mohrirs>
 
 # TECHNOLOGY COLOPHON
 
